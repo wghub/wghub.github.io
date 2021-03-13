@@ -1,0 +1,46 @@
+<package>
+	<id>com.xgdebug.textnow</id>
+	<name>xgDebug</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+<shortDescription><![CDATA[TextNow协议通信插件,使用POST和GET登陆收发消息,助力您的外贸广告业务 --by QQ:1076538389]]>
+</shortDescription>
+	<descriptionlist>
+		<description>只支持11以上系统.</description>
+		<description>需要打开TextNow.</description>
+		<description>工作时不要关闭TextNows</description>
+		<description><![CDATA[
+      只支持11以上系统（含）<br/>需要依赖 curl , Cydia Substrate
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>修复有时返回空的bug</change>
+		<change>请不要滥用</change>
+		<change>请注意发送速度以免封号</change>
+	</changelog>
+	<links>
+		<link>
+			<name>首页</name>
+			<url>https://wghub.github.io/repo</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
