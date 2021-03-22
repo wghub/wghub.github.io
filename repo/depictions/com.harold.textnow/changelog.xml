@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.8</version>
+		<change>修复bug</change>
+	</changes>
+	<changes>
 		<version>1.0.5</version>
 		<change>修复触动崩溃bug</change>
 	</changes>
@@ -11,5 +15,5 @@
 		<version>1.0.1</version>
 		<change>可正常使用版本</change>
 	</changes>
-	
+
 </changelog>
