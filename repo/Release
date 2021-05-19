@@ -1,7 +1,7 @@
 Origin: WGHUB官方源
 Label: wghub
 Suite: stable
-Version: 1.1
+Version: 1.1.8
 Codename: wghub
 Architectures: iphoneos-arm
 Components: main
