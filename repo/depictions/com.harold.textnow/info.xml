@@ -1,7 +1,7 @@
 <package>
 	<id>com.harold.textnow</id>
 	<name>Harold</name>
-	<version>1.0.8</version>
+	<version>1.1.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -32,6 +32,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
+		<change>日常维护更新</change>
 		<change>修复有时返回空的bug</change>
 		<change>请不要滥用</change>
 		<change>请注意发送速度以免封号</change>
